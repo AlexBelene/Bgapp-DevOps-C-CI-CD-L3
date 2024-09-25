@@ -1,8 +1,6 @@
-# BGApp
+# BGApp forked from Dimitar Zahariev 
 
 A simple web application that lists the top 10 cities in Bulgaria by population.
-
-Used mostly for demonstration in various courses and presentations.
 
 Contains the following set of files:
 
@@ -62,4 +60,4 @@ Note that both containers should be attached to the same network to have working
 
 When built and deployed correctly, the result should look like this:
 
-!
+![](bgapp.png)
